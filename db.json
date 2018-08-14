@@ -1,29 +1,12 @@
 {
   "posts": [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "He has a secret",
-      "body": "You wouldn't know it just by looking at him. He's the type of guy who's always joking around with his friends. He laughs and smiles, but inside he's breaking. And when he gets home, when he's safe in the solitude of his room, he shatters. "
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "title": "A Little Too Much Faith",
-      "body": "I think I put too much faith in you,I must have forgot youre only human. I guess I just hoped you'd go along without needing an explanation."
-    }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Sean2",
-      "username": "sean2.onuniverse.com",
-      "email": "sean2",
-    }
   ],
   "profile": {
     "name": "typicode"
