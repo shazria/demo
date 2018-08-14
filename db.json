@@ -17,6 +17,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Sean2",
+      "username": "sean2.onuniverse.com",
+      "email": "sean2",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
