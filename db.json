@@ -3,13 +3,13 @@
     	{
       "userId": 1,
       "id": 1,
-      "title": "Gemini 4 mission",
+      "title": "Gemini 4 Mission",
       "body": "I’m coming back in… and it’s the saddest moment of my life."
     },
     {
       "userId": 2,
       "id": 2,
-      "title": "First manned mission",
+      "title": "First Manned Mission",
       "body": "I feel fine. How about you?"
     },
     {
@@ -21,7 +21,7 @@
     {
       "userId": 4,
       "id": 4,
-      "title": "Apollo 14 mission",
+      "title": "Apollo 14 Mission",
       "body": "When I first looked back at the Earth, standing on the Moon, I cried."
     },
     {
@@ -40,7 +40,7 @@
       "userId": 7,
       "id": 7,
       "title": "Perspective from Apollo 14",
-      "body": "“From out there on the Moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, ‘Look at that, you son of a bitch."
+      "body": "From out there on the Moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, 'Look at that, you son of a bitch.'"
     },
     {
       "userId": 8,
@@ -117,8 +117,8 @@
     {
       "userId": 17,
       "id": 20,
-      "title": "Go flight.",
-      "body": "The words spoken by engineer Steve Bales when an erroneous computer error put the descent of Apollo 11 in jeopardy. His quick realisation in just a few seconds that the problem was no cause for alarm, and that the mission could continue, saw him receive the NASA Group Achievement Award on behalf of the mission operations team."
+      "title": "Two Words <To Depart><Process of Flying Through The Air>",
+      "body": "Go Flight."
     },
     {
       "userId": 18,
