@@ -69,7 +69,7 @@
     {
       "userId": 11,
       "id": 12,
-      "title": "Elon Much Fan Club",
+      "title": "Dreams of Mars",
       "body": "It’s a fixer-upper of a planet but we could make it work."
     },
     {
@@ -128,8 +128,27 @@
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Can't even imagine what one must feel returning to Earth", "postId": 1, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 2, "body": "Ha", "postId": 2, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 3, "body": "some perspective", "postId": 3, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 4, "body": "another one", "postId": 4, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 5, "body": "carl sagan with the complicated words", "postId": 5, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 6, "body": "I have, it's cool but space is cooler", "postId": 6, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 7, "body": "please do that", "postId": 7, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 8, "body": "space humor is the best", "postId": 8, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 9, "body": "actual first word spoken on moon", "postId": 9, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 10, "body": "ya not sure I can relate", "postId": 10, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 11, "body": "*insert praying hands emoji*", "postId": 11, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 12, "body": "I believe in you Elon", "postId": 12, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 13, "body": "has it tho?", "postId": 13, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 14, "body": "ahhhh one day soon", "postId": 14, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 15, "body": "nope", "postId": 15, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 16, "body": "must be hard having all your words recorded", "postId": 16, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 17, "body": "it was the furthest indeed!", "postId": 17, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 18, "body": "Ok Pablo.... we get it... painting is everything", "postId": 18, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 19, "body": "iconic", "postId": 19, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 20, "body": "basically NASA MVP", "postId": 20, "name": "shanaazria", "email" : "shana@icloud.com" },
+    { "id": 21, "body": "SETI will prevail", "postId": 21, "name": "shanaazria", "email" : "shana@icloud.com" }
   ],
   "users": [
 	{
@@ -205,45 +224,45 @@
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 13,
-      "name": "Shana Azria",
-      "username": "shanaazria",
-      "email": "Sincere@april.biz"
-  	},
-  	{
       "id": 15,
       "name": "Gene Kranz",
       "username": "gene.kranz",
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 16,
+      "id": 14,
       "name": "Bruce McCandless",
       "username": "brucemccandless",
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 17,
+      "id": 15,
       "name": "Pablo Picasso",
       "username": "pablopicasso",
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 18,
+      "id": 16,
       "name": "John Swigert’",
       "username": "john_swigert’",
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 19,
+      "id": 17,
       "name": "Steve Bale",
       "username": "stevebale11",
       "email": "Sincere@april.biz"
   	},
   	{
-      "id": 20,
+      "id": 18,
       "name": "Giuseppe Cocconi",
       "username": "giuseppe",
+      "email": "Sincere@april.biz"
+  	},
+  	{
+      "id": 19,
+      "name": "Shana Azria",
+      "username": "shanaazria",
       "email": "Sincere@april.biz"
   	}
   ],
